@@ -1,4 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
+## NAME: Vishal S
+## REGISTER NUMBER: 212223110063
 
 ## Aim: 
 To perform a study on Client Server Chat Applications
